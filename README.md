@@ -1,7 +1,7 @@
 # Wasserstein-Spatial-Depth
 
 This repository provides R implementation of a new notion of depth defined on Wasserstein spaces. 
-There are two directories named "Simulations" and "Application", which contain the R codes for simulations and application, respectively, in the paper "Wasserstein Spatial Depth". 
+There are two directories named "Simulations" and "Application", which contain the R codes for simulations and application, respectively, in the paper "Wasserstein Spatial Depth" (https://arxiv.org/abs/2411.10646). 
 
 ## Codes for simulations
 
@@ -14,6 +14,6 @@ The codes are selfexplanable.
 
 # Welcome to use and modify our codes
 
-We encourage you to use and adopt codes in this repository. Please cite our paper   upon using the code. 
+We encourage you to use and adopt codes in this repository. Please cite our paper https://arxiv.org/abs/2411.10646 upon using the code. 
 Details of the method can also be found in the paper. 
  
